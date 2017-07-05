@@ -1,7 +1,7 @@
 # ejsExcelDemo
 
 nodejs下使用ejsExcel读取xlxs文件的demo（Windows环境）
-博客地址参考这里：https//www.badiu.com
+详细步骤可以看我的博客，地址：http://www.cnblogs.com/Platform/p/7120719.html
 
 运行步骤：
 
